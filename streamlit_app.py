@@ -34,4 +34,3 @@ streamlit.write('The user entered ', fruit_choice)
 
 import snowflake.connector
 
-
